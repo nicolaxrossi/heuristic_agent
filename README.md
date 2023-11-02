@@ -8,4 +8,4 @@ This repo contains:
 * 'stats' module (personal implementation of a simple dataframe manager)
 * Snake/Chess Experiments (experimental results)
 
-**\_Disclaimer\_**: no evidence was sought from the experiments, they were used only to get some insights!
+**Disclaimer**: no evidence was sought from the experiments, they were used only to get some insights!
