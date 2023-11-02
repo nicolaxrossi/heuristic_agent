@@ -1,4 +1,4 @@
-# heuristic_agent
+# Heuristic Agent
 AI module 1 course - homework 1. The objective was te develop agents able to play a single-player game (heuristic search) and a multi-player, zero-sum, perfect-information game (adversarial search) and to evaluate how different algorithms and heuristics can affect the agents' behaviour.
 
 This repo contains:
