@@ -6,4 +6,4 @@ This repo contains:
 * a Jupyter notebook (core classes of the implementation: algorithms, heuristics, agents, utilities, ...)
 * 'snake' module (personal implementation of snake game logic)
 * 'stats' module (personal implementation of a simple dataframe manager)
-* Snake/Chess Experiments (experimental resulsts' dataframes)
+* Snake/Chess Experiments (experimental results)
